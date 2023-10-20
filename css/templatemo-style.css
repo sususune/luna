@@ -359,7 +359,7 @@ figure.effect-julia img {
 }
 
 figure.effect-julia figcaption {
-	display: flex;
+	display: inline;
   align-items: center;
 }
 
