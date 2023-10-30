@@ -1,6 +1,5 @@
 # Luna
-
-## Site feito com o objetivo de mostrar algumas das infinitas estrutuas e fenômenos presentes na imensidão do cosmos
+* Site feito com o objetivo de mostrar algumas das fascinantes e infinitas estruturas e fenômenos presentes na imensidão do cosmos
 
 ## Autores:
 * Sofia Lima Verde
