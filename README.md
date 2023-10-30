@@ -6,4 +6,4 @@
 * João Victor Araújo dos Santos
 
 ## Template utilizado:
-* [Astro Motion](https://templatemo.com/tm-560-astro-motion)
+* [Templatemo - Astro Motion](https://templatemo.com/tm-560-astro-motion)
